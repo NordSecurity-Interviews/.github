@@ -8,8 +8,6 @@ Also, if you need a refersher about the company after your discussion with a rec
 
 # Home Task
 
-You can find the repo to home task here: https://github.com/NordSecurity-Interviews/fe-take-home-assignment
-
 If you'll have any questions about the task or need some further clarification, please feel free to reach out to your recruiter asking for more information. They are here to help you.
 
 Also, we're adding a link to our blog that gives some information on what to focus on when doing take home tasks. Hope it offer some additional help. You can find the link to blog post here: https://nordsecurity.com/blog/how-to-impress-recruiters
