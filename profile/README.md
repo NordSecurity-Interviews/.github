@@ -2,11 +2,11 @@
 
 At Nord Security, we’re a community of like-minded individuals **passionate about cybersecurity and tech**. And we’re always looking for challenge-hungry explorers to join our team and build a safe cyber future with us!
 
-Explore all our open positions here: [Open Positions](https://nordsecurity.com/careers)
+Explore [all our open positions](https://nordsecurity.com/careers)
 
-Or refer a friend or colleague: [Refer a friend](https://nordsecurity.com/referrals)
+Or [refer a friend or colleague](https://nordsecurity.com/referrals)
 
-For a refresher on Nord Security’s benefits, culture, and more, check out our candidate page here: [For candidates](https://nordsecurity.notion.site/For-candidates-612e0a434c5b4cdfab12f32a5bc8e329)
+For a refresher on Nord Security’s benefits, culture, and more, check out [our candidate page](https://nordsecurity.notion.site/For-candidates-612e0a434c5b4cdfab12f32a5bc8e329)
 
 # Home Task
 
