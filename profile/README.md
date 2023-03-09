@@ -1,6 +1,6 @@
 # Create a safe cyber future with us
 
-At Nord Security, we’re a community of like-minded individuals **passionate about cybersecurity and tech**. And we’re always looking for challenge-hungry explorers to join our team and build a safe cyber future with us!
+At **Nord Security**, we’re a community of like-minded individuals **passionate about cybersecurity and tech**. And we’re always looking for challenge-hungry explorers to join our team and build a safe cyber future with us!
 
 Explore [all our open positions](https://nordsecurity.com/careers)
 
