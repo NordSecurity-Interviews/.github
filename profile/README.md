@@ -1,15 +1,5 @@
-# Create a safe cyber future with us
-
-At **Nord Security**, we’re a community of like-minded individuals **passionate about cybersecurity and tech**. And we’re always looking for challenge-hungry explorers to join our team and build a safe cyber future with us!
-
-Explore [all our open positions](https://nordsecurity.com/careers)
-
-Or [refer a friend or colleague](https://nordsecurity.com/referrals)
-
-For a refresher on Nord Security’s benefits, culture, and more, check out [our candidate page](https://nordsecurity.notion.site/For-candidates-612e0a434c5b4cdfab12f32a5bc8e329)
-
-# Home Task
-
-If you have any questions about the task or need further clarification, please feel free to reach out to your dedicated recruiter. We are here to help.
-
-Also, check out our take home task pointers on the Nord Security blog: [Tips for home task](https://nordsecurity.com/blog/how-to-impress-recruiters)
+<img width="600" height="2500" alt="NordSec Github" src="https://github.com/user-attachments/assets/6fbc421a-ddc8-4eb2-87e5-a332f4b731e4" />
+<br> Useful links: 
+<br> Tips for home task (https://nordsecurity.com/blog/how-to-impress-recruiters)
+<br> Engineering Blog (https://nordsecurity.com/blog/category/engineering)
+<br> Nord Security career page (https://nordsecurity.com/careers)
