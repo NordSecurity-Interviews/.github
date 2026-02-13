@@ -3,3 +3,4 @@
 <br> Tips for home task (https://nordsecurity.com/blog/how-to-impress-recruiters)
 <br> Engineering Blog (https://nordsecurity.com/blog/category/engineering)
 <br> Nord Security career page (https://nordsecurity.com/careers)
+<br> Refer top talent and earn €1000 (https://nordsecurity.com/referrals) 
